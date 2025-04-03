@@ -12,7 +12,7 @@
 5. Klicke aud den folder "mods"
 
    ![image](https://github.com/user-attachments/assets/1c8d722d-586d-420d-9b2c-f6eb22d87125)
-6. Entferne diese Genannten Mods:
+6. Entferne diese genannten Mods:
    - [1.20.1] SecurityCraft v1.9.12.jar
    - Bountiful-6.0.4+1.20.1-forge.jar
    - BiomesOPlenty-1.20.1-18.0.0.592.jar
@@ -23,5 +23,11 @@
    - epicpowerbracelets-forge-1.20.X-1.1.0.jar
    - skinlayers3d-forge-1.7.5-mc1.20.1.jar
    - villagernames-1.20.1-8.2.jar
+  
+7. Füge die zuätzlichen mods vom Folder "Additional Mods" aus Github hinzu
+
+8. 
+
+   
 
 
