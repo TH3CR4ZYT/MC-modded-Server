@@ -24,11 +24,21 @@
    - skinlayers3d-forge-1.7.5-mc1.20.1.jar
    - villagernames-1.20.1-8.2.jar
   
-7. Füge die zuätzlichen mods vom Folder "Additional Mods" aus Github hinzu
+7. Füge die zuätzlichen hinzu: WICHTIG! immer aktuellste Forge 1.20.1 Version herunterladen
 
-8. CR4ZY anschreiben für White list (Ingame Name geben)
+   ![image](https://github.com/user-attachments/assets/ed24c71e-be7f-4c90-81ef-4ca9d1656f98)
 
-9. Server IP: argonite.ddns.net:25565
+   - https://www.curseforge.com/minecraft/mc-mods/connected-glass
+   - https://www.curseforge.com/minecraft/mc-mods/connectible-chains-forge
+   - https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked
+   - https://www.curseforge.com/minecraft/mc-mods/easier-sleeping
+   - https://www.curseforge.com/minecraft/mc-mods/notrample
+   - https://www.curseforge.com/minecraft/mc-mods/tectonic
+   - https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+
+9. CR4ZY anschreiben für White list (Ingame Name geben)
+
+10. Server IP: argonite.ddns.net:25565
 
 Eventuelle Fehler:
 
