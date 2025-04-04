@@ -30,6 +30,10 @@
 
 9. Server IP: argonite.ddns.net:25565
 
+Eventuelle Fehler:
+
+1. Beim Server Joinen tritt dieser fehler auf [Ice_air:main] --> immersive aircraft im mod Ordner löschen
+
    
 
 
