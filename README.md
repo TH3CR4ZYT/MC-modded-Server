@@ -26,7 +26,9 @@
   
 7. Füge die zuätzlichen mods vom Folder "Additional Mods" aus Github hinzu
 
-8. 
+8. CR4ZY anschreiben für White list (Ingame Name geben)
+
+9. Server IP: argonite.ddns.net:25565
 
    
 
