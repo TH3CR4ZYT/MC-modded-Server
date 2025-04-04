@@ -38,7 +38,7 @@
 
 9. CR4ZY anschreiben für White list (Ingame Name geben)
 
-10. Server IP: argonite.ddns.net:25565
+10. Server IP: minecraft25565.argonite.ch
 
 Eventuelle Fehler:
 
