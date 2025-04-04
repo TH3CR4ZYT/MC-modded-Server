@@ -24,7 +24,7 @@
    - skinlayers3d-forge-1.7.5-mc1.20.1.jar
    - villagernames-1.20.1-8.2.jar
   
-7. Füge die zuätzlichen hinzu: WICHTIG! immer aktuellste Forge 1.20.1 Version herunterladen
+7. Füge die zuätzlichen Mods in den gleichen modfolder hinzu: WICHTIG! immer aktuellste Forge 1.20.1 Version herunterladen
 
    ![image](https://github.com/user-attachments/assets/ed24c71e-be7f-4c90-81ef-4ca9d1656f98)
 
