@@ -34,6 +34,7 @@
    - https://www.curseforge.com/minecraft/mc-mods/easier-sleeping
    - https://www.curseforge.com/minecraft/mc-mods/notrample
    - https://www.curseforge.com/minecraft/mc-mods/tectonic
+   - https://www.curseforge.com/minecraft/mc-mods/attack-through-grass
 
 
 9. CR4ZY anschreiben für White list (Ingame Name geben)
